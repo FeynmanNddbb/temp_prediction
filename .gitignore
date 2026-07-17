@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+*.spec
+
+# Virtual environment
+.venv/
+venv/
+env/
+ENV/
+
+# Trained model artifacts (large binary files)
+model_weights.pt
+scaler_X.pkl
+scaler_y.pkl
+X_test.pt
+y_test.pt
+
+# Raw data files (may be large)
+AirQualityUCI.csv
+AirQualityUCI.xlsx
+test_data.xlsx
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local config overrides
+*.local
