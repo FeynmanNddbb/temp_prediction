@@ -61,8 +61,8 @@ temp_prediction_last/
 ### 1. 克隆仓库
 
 ```bash
-git clone https://github.com/<your-username>/temp-prediction.git
-cd temp-prediction
+git clone https://github.com/FeynmanNddbb/temp_prediction.git
+cd temp_prediction
 ```
 
 ### 2. 创建虚拟环境（推荐）
